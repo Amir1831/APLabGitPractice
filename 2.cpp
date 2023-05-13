@@ -25,3 +25,5 @@ int main() {
     cin >> findIt;
     cout << countAllSpecificChars(sArr, 4, findIt);
 }
+
+// this is a comment
